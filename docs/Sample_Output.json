@@ -1,0 +1,17 @@
+{
+  "device_id": "AGRI_NODE_01",
+  "timestamp": "2026-02-06T10:30:00Z",
+  "location": "Field_Section_A",
+  "sensor_data": {
+    "temperature_celsius": 32,
+    "humidity_percent": 65,
+    "soil_moisture_percent": 28,
+    "light_intensity_lux": 850
+  },
+  "irrigation_status": {
+    "pump": "ON",
+    "relay_state": "ACTIVE",
+    "threshold_soil_moisture": 30
+  },
+  "system_status": "Operational"
+}
